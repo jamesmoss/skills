@@ -1,6 +1,6 @@
 # Agent School
 
-![Agent School](images/agent-school.png)
+![Agent School](assets/agent-school.png)
 
 **Agent School** turns recurring agent mistakes into permanent, project-specific guidance. When agents keep getting something wrong—a library, a design pattern, or a convention—you use this skill to investigate the problem and generate a **Tessl tile** that teaches all future agents how to handle it correctly.
 
