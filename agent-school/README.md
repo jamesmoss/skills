@@ -29,7 +29,7 @@ Use Agent School when:
 Install via tessl:
 
 ```bash
-tessl install jamesm/skills
+tessl install jamesmoss/skills
 ```
 
 **After you run Agent School:** the new tile it creates is part of your repo. Run `tessl install` in the project so steering rules are merged into `.tessl/RULES.md` and the new rules, docs, and skills become active.
